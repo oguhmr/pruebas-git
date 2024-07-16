@@ -2,3 +2,5 @@
 Mandarina
 Pera
 Uva
+Sandia
+Durazno
